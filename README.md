@@ -1,0 +1,1 @@
+A tool to generate certificate signing requests or self signed certificates.
